@@ -1,3 +1,3 @@
 # New project
 
-creating new folder
+creating new repo
